@@ -1,0 +1,15 @@
+{
+  "student_name": "REPLACE WITH YOUR NAME",
+  "student_id": "REPLACE WITH YOUR BITS STUDENT ID",
+  "github_repository_url": "https://github.com/YOUR-USERNAME/YOUR-REPO",
+  "streamlit_app_url": "https://YOUR-APP.streamlit.app",
+  "virtual_lab_screenshot_path": "evidence/bits_virtual_lab.png",
+  "model_observations": {
+    "Logistic Regression": "REPLACE: Refer to this model's actual Recall, Precision and AUC; explain why it behaves as observed.",
+    "Decision Tree": "REPLACE: Discuss the model's strengths or limitations on your test set, including possible overfitting.",
+    "KNN": "REPLACE: Compare the distance-based classifier with the others using actual F1 and MCC.",
+    "Naive Bayes": "REPLACE: Interpret the independence assumption and actual metrics.",
+    "Support Vector Machine": "REPLACE: Discuss the kernel-based result and any Precision/Recall trade-off."
+  },
+  "overall_winner": "REPLACE: State which model you consider best, the deciding metric(s), and why."
+}
